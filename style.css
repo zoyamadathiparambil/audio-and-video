@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 30px;
+    background-color: #9de8ff;
+    letter-spacing: 0px;
+    font-family: 'Dancing Script', cursive;
+}
+
+img{
+    width: 500px;
+    height: 550px;
+    position: absolute;
+    top: 10%;
+    left: 57%;
+}
+
+audio, video{
+    margin: 30px 0px 0px;
+}
+
+h1{
+    letter-spacing: 0px;
+}
+
+h2{
+    color: indigo;
+}
